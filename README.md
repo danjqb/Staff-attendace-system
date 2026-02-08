@@ -46,6 +46,8 @@ This project is developed as an academic **mini project** and focuses on buildin
 2. Open the project in your preferred Java IDE.
 3. Compile the program:
 
-![img1]()
-   
+![img1](https://github.com/danjqb/Staff-attendace-system/blob/64954527c295bf8c88d39b725d298b220d3b213a/Screenshot%202026-02-07%20094132.png)
+  ![img2]() 
+  ![img3]() 
+  ![img4]() 
    javac CollegeStaffAttendanceSystem.java
