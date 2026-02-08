@@ -48,6 +48,6 @@ This project is developed as an academic **mini project** and focuses on buildin
 
 ![img1](https://github.com/danjqb/Staff-attendace-system/blob/64954527c295bf8c88d39b725d298b220d3b213a/Screenshot%202026-02-07%20094132.png)
   ![img2](https://github.com/danjqb/Staff-attendace-system/blob/6aca03268ec40bcd0a4f8975734dfff034934ab8/Screenshot%202026-02-07%20094146.png) 
-  ![img3]() 
+  ![img3](https://github.com/danjqb/Staff-attendace-system/blob/4b28a0ba4b386715aff2595fd5f0f1cca5d9784c/Screenshot%202026-02-07%20094154.png) 
   ![img4]() 
    javac CollegeStaffAttendanceSystem.java
